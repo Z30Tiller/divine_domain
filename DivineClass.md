@@ -1,4 +1,4 @@
-### Divine Class
+## Divine Class
 
 ### CLASS FEATURES
 After killing a God and absorbing its life force into your own body, you have started on a path to becoming a God yourself. Initially this can have drastic consequences, but the more you focus and train, the stronger you'll become, eventually ascending into full Godhood.
@@ -13,7 +13,7 @@ After killing a God and absorbing its life force into your own body, you have st
 ---
 
 ### DIVINE DEFENSE
-At 1st level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier - your Constitution modifier. At 11th level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier.
+At 1st level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier. At 11th level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier.
 
 ---
 
@@ -39,11 +39,11 @@ As a Bonus Action you can activate one of the following abilities:
 
 - **Divine Domain Ability**: See your Divine Domain for further details on this.
 
-- **Divine Healing**: By touching another creature you can heal them for a d10 per Divine level, restore a lost limb, or remove diseases from the creature. (**Consequence**: You take a d6 per Divine level when using this ability.)
+- **Divine Healing**: By touching another creature you can heal them for a d10 per Divine level, restore a lost limb, or remove diseases from the creature. (**Consequence**: You take a d4 per Divine level when using this ability.)
 
-- **Divine Command**: Your voice booms as if coming from the sky, and all creatures within 1000 feet can hear it. You can select a number of creatures up to your current Divine level that can hear your voice. They must make a Wisdom Saving Throw (DC is 10 + your Charisma modifier) or obey one command from you. The effect ends once the command has been completed, 24 hours has passed, or the creature is unconscious. (**Consequence**: After doing this you have disadvantage on Charisma saving throws and creatures attacking you have advantage. This effect lasts for 10 minutes or until you take a short or long rest.)
+- **Divine Command**: Your voice booms as if coming from the sky, and all creatures within 120 feet can hear it. You can select a number of creatures up to half your Divine level (rounded up) that can hear your voice. They must make a Wisdom Saving Throw (DC is 10 + your Charisma modifier) or obey one command from you. The effect ends once the command has been completed, 24 hours has passed, or the creature is unconscious. (**Consequence**: After doing this you have disadvantage on Charisma saving throws and creatures attacking you have advantage. This effect lasts for 10 minutes or until you take a short or long rest.)
 
-- **Divine Wrath**: Through anger you channel your Divine Energy to strengthen and fortify your body. You gain +5 to your AC, and have +5 to all attack rolls. As a Bonus Action you can give yourself advantage on all attack rolls made that turn. This ability lasts for 1 minute. (**Consequence**: You have disadvantage on Wisdom, Dexterity, and Intelligence saving throws. Creatures attacking you have advantage. You also take an additional 1d10 damage from any magical source.)
+- **Divine Wrath**: Through anger you channel your Divine Energy to strengthen and fortify your body. You gain +2 to your AC, and have +3 to all attack rolls. As a Bonus Action you can give yourself advantage on all attack rolls made that turn. This ability lasts for 1 minute. (**Consequence**: You have disadvantage on Wisdom, Dexterity, and Intelligence saving throws. Creatures attacking you have advantage. You also take an additional 1d6 damage from any magical source.)
 
 - **Divine Spell**: You gain the ability to cast a single spell. The spell can be any spell from the Player's Handbook as long as it is equal to or less than the highest spell level on the following chart:
 
@@ -68,7 +68,7 @@ As a Bonus Action you can activate one of the following abilities:
 ---
 
 ### ABILITY SCORE IMPROVEMENT
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1, or take another feat. You can increase an ability score as high as you want if the Ability Score Improvement comes from the Divine Class.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1, or take another feat. You can increase an ability score to a maximum of 24 if the Ability Score Improvement comes from the Divine Class.
 
 ---
 
@@ -97,8 +97,8 @@ At 18th level you can choose a Champion to fight and act on your behalf. As an A
 
 A creature who is your Champion gains the following benefits:
 
-- +3 to AC.
-- All weapon attacks are magical and can crit on an 18, 19, or 20.
+- +2 to AC.
+- All weapon attacks made with the Champion's relic are magical and can crit on a 19 or 20.
 - As a Bonus Action they can call upon you to intervene, allowing you to either teleport to the closest free space next to them, or use Channel Divine Energy with them as the source.
 - As an Action the creature can communicate with you, and can allow you to see and hear everything they can.
 - The Champion gains a relic representing your domain. This relic can be either a weapon, armor, or an artifact. You can choose to either make something the Champion already owns as the relic, or create a new item (work with the DM to decide the stats and abilities of this relic).
@@ -110,6 +110,26 @@ At 18th level you are able to cast True Polymorph on yourself without taking up 
 
 ---
 
-### POCKET DIMENSION
-At 20th level you can channel enough Divine Energy to create your own Pocket Dimension. This Dimension will take the shape and form of your choosing, and only can be opened by you. As a Bonus Action you can create a Gateway to your Pocket Dimension, and only creatures of your choosing can enter. The Gateway takes the form of whatever you wish, and stays open for as long as you want. While in your Pocket Dimension you can create a Gateway to anywhere that you have previously been.
+### DIVINE ASCENSION
+
+At 20th level, you have reached the pinnacle of your divine journey. You may select one of the following ultimate abilities, embodying your unique divinity:
+
+- **Godhood Ascension**: You gain the following permanent benefits:
+  - Immunity to bludgeoning, piercing, and slashing damage from non-magical weapons.
+  - Advantage on all saving throws.
+  - You can radiate an aura of divine energy (120 feet). Creatures of your choice within the aura gain resistance to all damage and can’t be frightened or charmed.
+
+- **Apotheosis**: Once per long rest, as an action, you transform into your full divine form for 1 minute:
+  - You gain a flying speed of 120 feet.
+  - Your spells, attacks, and abilities ignore resistance and immunity to damage.
+  - Creatures that see you must succeed on a Wisdom saving throw (DC = 10 + your proficiency bonus + your Charisma modifier) or become frightened for 1 minute.
+
+- **Divine Creation**: Once per long rest, you can use your divine energy to perform a miracle:
+  - Cast **Wish** without requiring material components.
+  - Alternatively, reshape a portion of the world, such as creating a mountain, splitting a river, or turning a desert into fertile land (subject to DM discretion).
+
+- **Pantheon’s Will**: Once per long rest, as an action, you can choose one of the following:
+  - Instantly resurrect up to 10 creatures you can see, restoring them to full hit points.
+  - Instantly destroy all non-deity creatures of your choice within 120 feet that have 100 hit points or fewer (no save).
+  - Heal all allies within 120 feet, restoring all hit points and removing all conditions.
 
