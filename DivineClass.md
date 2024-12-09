@@ -13,7 +13,7 @@ After killing a God and absorbing its life force into your own body, you have st
 ---
 
 ### DIVINE DEFENSE
-At 1st level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier. At 11th level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier.
+At 1st level, while you are not wearing armor, your Armor Class is equal to 10 + your Dexterity modifier + your Wisdom modifier.
 
 ---
 
@@ -39,11 +39,16 @@ As a Bonus Action you can activate one of the following abilities:
 
 - **Divine Domain Ability**: See your Divine Domain for further details on this.
 
-- **Divine Healing**: By touching another creature you can heal them for a d10 per Divine level, restore a lost limb, or remove diseases from the creature. (**Consequence**: You take a d4 per Divine level when using this ability.)
+- **Divine Healing**: By touching another creature you can heal their wounds. Chose one of the follow:
+  - Restore a limb
+  - Cure a diseases
+  - Roll a number of d10s equal to your Divine Level and restore that many hit points.
 
-- **Divine Command**: Your voice booms as if coming from the sky, and all creatures within 120 feet can hear it. You can select a number of creatures up to half your Divine level (rounded up) that can hear your voice. They must make a Wisdom Saving Throw (DC is 10 + your Charisma modifier) or obey one command from you. The effect ends once the command has been completed, 24 hours has passed, or the creature is unconscious. (**Consequence**: After doing this you have disadvantage on Charisma saving throws and creatures attacking you have advantage. This effect lasts for 10 minutes or until you take a short or long rest.)
+  **Consequence**: Roll a number of d6s equal to your Divine Level and take that much Force damage.
 
-- **Divine Wrath**: Through anger you channel your Divine Energy to strengthen and fortify your body. You gain +2 to your AC, and have +3 to all attack rolls. As a Bonus Action you can give yourself advantage on all attack rolls made that turn. This ability lasts for 1 minute. (**Consequence**: You have disadvantage on Wisdom, Dexterity, and Intelligence saving throws. Creatures attacking you have advantage. You also take an additional 1d6 damage from any magical source.)
+- **Divine Command**: Your voice booms as if coming from the sky, and all creatures within 120 feet can hear it. You can select a number of creatures up to half your Divine level (rounded up) that can hear your voice. They must make a Wisdom Saving Throw (DC is 10 + your Charisma modifier) or obey one command from you. The effect ends once the command has been completed, 24 hours has passed, or the creature is unconscious. 
+
+  **Consequence**: After doing this you are under the effects of the **Silence** spell. This effect lasts for 10 minutes or until you take a short or long rest.
 
 - **Divine Spell**: You gain the ability to cast a single spell. The spell can be any spell from the Player's Handbook as long as it is equal to or less than the highest spell level on the following chart:
 
@@ -72,23 +77,25 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ---
 
+### Divine Wrath
+Through anger you channel your Divine Energy to strengthen and fortify your body. At 5th level you can use your Bonus Action to go into a Divine Rage for 1 minute. You gain +2 to your AC, and have +3 to all attack rolls during your Divine Rage. While in this state, as a Bonus Action, you can give yourself advantage on all attack rolls made that turn. You can use this feature a number of times equal to your Proficiency Bonus per long rest.
+
+**Consequence**: You have disadvantage on Constitution, Intelligence, and Wisdom saving throws. You also take an additional 1d6 damage from any magical source.
+
+---
+
 ### DEMIGOD
-Starting at 5th level, your mortal body begins to adapt to your new Divine Energy. You no longer age, and can now meditate for 6 hours instead of sleeping during a long rest. During this time, you are cured of all mortal wounds and diseases. You also take half damage from **Consequences**, rounded up.
+Starting at 9th level, your mortal body begins to adapt to your new Divine Energy. You no longer age, and can now meditate for 6 hours instead of sleeping during a long rest. During this time, you are cured of all mortal wounds and diseases. You also take half damage from all **Consequences**, rounded up.
 
 ---
 
 ### DIVINE FORTIFICATION
-At 6th level, your divine energy fortifies you against mortal ailments. You gain resistance to poison and psychic damage and become immune to being frightened.
+At 11th level, your divine energy fortifies you against mortal ailments. You gain resistance to poison and psychic damage and become immune to being frightened.
 
 ---
 
 ### DIVINE FORM
-At 11th level your mortal form becomes Divine. You ignore all **Consequences**. During a long rest you gain the ability to change your appearance. You cannot change Race or Size, but can change your Subrace. You also gain the ability to read, speak, and write in any language, and are immune to all diseases and poisons.
-
----
-
-### CELESTIAL VITALITY
-At 14th level, your divine energy allows your body to heal at an accelerated rate. At the start of each of your turns, you regain hit points equal to your Proficiency Bonus if you have less than half your hit points remaining.
+At 15th level your mortal form becomes Divine, allowing you to ignore all **Consequences**. During a long rest you gain the ability to change your appearance. You cannot change Race or Size, but can change your Subrace. You also gain the ability to read, speak, and write in any language, and are immune to all diseases and poisons.
 
 ---
 

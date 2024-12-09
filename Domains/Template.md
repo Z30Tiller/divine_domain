@@ -33,4 +33,5 @@ Something here
 
 ---
 
-NOTE: Consequence is a class feature. Please add Consequence to abilities Level 1-10.
+NOTE: Consequence is a class feature. Please add Consequence to abilities except for level 17.
+
